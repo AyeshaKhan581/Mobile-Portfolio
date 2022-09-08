@@ -1,0 +1,15 @@
+.navbar-light .navbar-brand {
+  color: black;
+  font-size: 1grem;
+  font-weight: bold;
+}
+.navbar {
+  background-color: red;
+}
+.btn {
+  border: 2px solid black;
+  border-radius: 10px;
+}
+.container-fluid {
+  background-color: red;
+}
