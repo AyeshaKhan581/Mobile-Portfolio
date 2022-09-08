@@ -13,3 +13,19 @@
 .container-fluid {
   background-color: red;
 }
+.container-fluid2 {
+  background-color: antiquewhite;
+}
+.col-sm {
+  border: 1px solid gray;
+  border-radius: 2%;
+}
+.heading {
+  background-color: azure;
+}
+.cont {
+  background-color: azure;
+}
+.head {
+  background-color: rgb(255, 102, 0);
+}
