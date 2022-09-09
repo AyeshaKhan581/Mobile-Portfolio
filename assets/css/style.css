@@ -16,10 +16,10 @@
 .container-fluid2 {
   background-color: antiquewhite;
 }
-.col-sm {
+/* .col-sm {
   border: 1px solid gray;
   border-radius: 2%;
-}
+} */
 .heading {
   background-color: azure;
 }
@@ -28,4 +28,15 @@
 }
 .head {
   background-color: rgb(255, 102, 0);
+}
+/* .container {
+  background-color: azure;
+} */
+.container-fluid6 {
+  background-color: blanchedalmond;
+  color: white;
+}
+.container-fluid7 {
+  background-color: black;
+  color: white;
 }
